@@ -1,0 +1,18 @@
+/* Write your code here. */
+.emojigame-container {
+  background-image: linear-gradient(to bottom, #9796f0, #fbc7d4);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+.emoji-shuffle-container {
+  align-self: center;
+  list-style-type: none;
+  flex-wrap: wrap;
+  display: flex;
+  flex-direction: row;
+  width: 50%;
+}
